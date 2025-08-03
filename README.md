@@ -27,7 +27,7 @@ Screenshots of the database schema are provided for reference.
 - **Database**: MySQL
 
 ---
-The `/screenshots` folder includes preview images of important database tables:
+📸 [Screenshots](https://github.com/kashisharora-14/Eves-Elegance-Women-Clothing-site/tree/main/screenshots)
 
 - `users` – registered users
 - `products` – items for sale
